@@ -87,6 +87,17 @@ section {
   color: #6f6f6f;
 }
 
+.section-header-content {
+  margin-bottom: 0;
+  color: #6f6f6f;
+  padding-bottom: 60px;
+}
+
+.section-header-content p {
+  margin-bottom: 0;
+  color: #6f6f6f;
+}
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
@@ -317,7 +328,8 @@ section {
 }
 
 .header .logo h1 span {
-  color: #f96f59;
+  color: #fff;
+  font-size: 20px;
 }
 
 .sticked-header-offset {
@@ -2035,6 +2047,10 @@ section {
 .hero .icon-box:hover .title a,
 .hero .icon-box:hover .icon {
   color: #fff;
+}
+
+.hero .icon-box img {
+  width: 100px;
 }
 
 /*--------------------------------------------------------------
