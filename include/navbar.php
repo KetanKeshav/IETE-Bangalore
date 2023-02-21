@@ -20,15 +20,17 @@
                     <a href="#" class="dropdown-item">More about IETE</a>
                 </div>
             </div>
-            <a href="about.html" class="nav-item nav-link">About</a>
-            <a href="service.html" class="nav-item nav-link">Service</a>
-            <a href="project.html" class="nav-item nav-link">Project</a>
+            <a href="#" class="nav-item nav-link">Awards</a>
+            <a href="#" class="nav-item nav-link">Events</a>
+            <a href="#" class="nav-item nav-link">Project</a>
+            <a href="#" class="nav-item nav-link">IICI-23</a>
+            <a href="#" class="nav-item nav-link">IETE Courses</a>
+            <a href="#" class="nav-item nav-link">Newsletter</a>
+            <a href="#" class="nav-item nav-link">Gallery</a>
             <div class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">ISF Activities</a>
                 <div class="dropdown-menu m-0">
-                    <a href="team.html" class="dropdown-item">Our Team</a>
-                    <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                    <a href="404.html" class="dropdown-item">404 Page</a>
+                    <a href="#" class="dropdown-item">ISF Colleges</a>
                 </div>
             </div>
             <a href="contact.php" class="nav-item nav-link <?php if($page == 'contact') echo 'active' ?>">Contact</a>
