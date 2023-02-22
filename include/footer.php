@@ -16,20 +16,18 @@
             </div>
             <div class="col-md-6 col-lg-3">
                 <h5 class="text-white mb-4">Useful Links</h5>
-                <a class="btn btn-link" href="">About Us</a>
-                <a class="btn btn-link" href="">Contact Us</a>
-                <a class="btn btn-link" href="">Privacy Policy</a>
-                <a class="btn btn-link" href="">Terms & Condition</a>
-                <a class="btn btn-link" href="">Career</a>
+                <a class="btn btn-link" href="ecmembers.php">Members</a>
+                <a class="btn btn-link" href="mission-vision.php">Mission and Vision</a>
+                <a class="btn btn-link" href="newsletter.php">Newsletter</a>
+                <a class="btn btn-link" href="history.php">History</a>
             </div>
 
             <div class="col-md-6 col-lg-3">
                 <h5 class="text-white mb-4">Quick Links</h5>
-                <a class="btn btn-link" href="">About Us</a>
-                <a class="btn btn-link" href="">Contact Us</a>
-                <a class="btn btn-link" href="">Privacy Policy</a>
-                <a class="btn btn-link" href="">Terms & Condition</a>
-                <a class="btn btn-link" href="">Career</a>
+                <a class="btn btn-link" href="about-us.php">About Us</a>
+                <a class="btn btn-link" href="awards.php">Awards</a>
+                <a class="btn btn-link" href="events.php">Events</a>
+                <a class="btn btn-link" href="contact.php">Contact Us</a>
             </div>
             
             <div class="col-md-6 col-lg-3">
@@ -45,16 +43,8 @@
     <div class="container px-lg-5">
         <div class="copyright">
             <div class="row">
-                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                <div class="col-md-12 text-center text-md-start mb-3 mb-md-0">
                     &copy; <a class="border-bottom" href="#">IETE Bangalore</a>
-                </div>
-                <div class="col-md-6 text-center text-md-end">
-                    <div class="footer-menu">
-                        <a href="">Home</a>
-                        <a href="">Cookies</a>
-                        <a href="">Help</a>
-                        <a href="">FQAs</a>
-                    </div>
                 </div>
             </div>
         </div>
