@@ -17,7 +17,7 @@
                     <a href="#" class="dropdown-item">Memberships</a>
                     <a href="history.php" class="dropdown-item  <?php if($page == 'history') echo 'active' ?>">History of IETE</a>
                     <a href="#" class="dropdown-item">Infrastructures and Facilities</a>
-                    <a href="mission-visoin.php" class="dropdown-item <?php if($page == 'mission-vision') echo 'active' ?>">Mission and Vision</a>
+                    <a href="mission-vision.php" class="dropdown-item <?php if($page == 'mission-vision') echo 'active' ?>">Mission and Vision</a>
                     <a href="about-us.php" class="dropdown-item <?php if($page == 'about-us') echo 'active' ?>">More about IETE</a>
                 </div>
             </div>
@@ -26,7 +26,7 @@
             <a href="#" class="nav-item nav-link">Project</a>
             <a href="#" class="nav-item nav-link">IICI-23</a>
             <a href="#" class="nav-item nav-link">IETE Courses</a>
-            <a href="#" class="nav-item nav-link">Newsletter</a>
+            <a href="newsletter.php" class="nav-item nav-link <?php if($page == 'newsletter') echo 'active' ?>">Newsletter</a>
             <a href="#" class="nav-item nav-link">Gallery</a>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">ISF Activities</a>
