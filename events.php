@@ -27,15 +27,7 @@
         <div class="container-xxl position-relative p-0">
             <?php include 'include/navbar.php'; ?>
 
-            <div class="container-xxl py-5 bg-primary hero-header mb-5">
-                <div class="container my-5 py-5 px-lg-5">
-                    <div class="row g-5 py-5">
-                        <div class="col-12 text-center">
-                            <h1 class="text-white animated zoomIn">Events</h1>
-                            <hr class="bg-white mx-auto mt-0" style="width: 90px;">
-                        </div>
-                    </div>
-                </div>
+            <div class="container-xxl py-5 bg-primary mb-5">
             </div>
         </div>
         <!-- Navbar & Hero End -->
@@ -66,25 +58,364 @@
                     <h6 class="position-relative d-inline text-primary ps-4">Our Events</h6>
                     <h2 class="mt-2">Recent Events</h2>
                 </div>
-                <div class="row g-4 portfolio-container">
-                    <div class="col-lg-4 col-md-6 portfolio-item first wow zoomIn" data-wow-delay="0.1s">
-                        <div class="position-relative rounded overflow-hidden">
-                            <img class="img-fluid w-100" src="img/e1.png" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-light" href="img/e1.png" data-lightbox="portfolio"><i class="fa fa-plus fa-2x text-primary"></i></a>
-                                <div class="mt-auto">
-                                    <small class="text-white"><i class="fa fa-folder me-2"></i>08-03-2020 | IETE Bangalore Centre</small>
-                                    <a class="h5 d-block text-white mt-1 mb-0" href="">SECOND BATCH OF PRACTICAL ORIENTED COURSE ON MATLAB/SIMULINK</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
         <!-- Portfolio End -->
 
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">26-30 Dec 2022</h6>
+                            <h2 class="mt-2">FDP on Next Generation Wireless Networks for Autonomous Intelligent Communications</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Department of Electronics & Communication Engineering of Sri. Venkateswara College of
+                            Engineering (SVCE) conducted Faculty Develop Program (FDP) in association with IETE
+                            Bangalore on <b>Next Generation Wireless Networks for Autonomous Intelligent Communications.</b>
+                            Dr. M H Kori, Governing Council Member, Inaugurated the FDP and he delivered opening talk.
+                            Dr. Y V S Lakshmi was the guest of honor and she took one session during FDP Program.
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/1.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
 
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/2.webp">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">21 Dec 2022</h6>
+                            <h2 class="mt-2">Seminar on Financial Awareness Programme on Banking Towards Digital India</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Department of Electronics & Communication Engineering of Sri. Venkateswara College
+                            of Engineering (SVCE) conducted one day seminar on
+                            <b>“Financial Awareness Programme on Banking Towards Digital India”</b>
+                            in association with IETE Bangalore. Prof. Prakasha, Registrar, SVCE introduced the Chief Guests
+                            and he proposed the welcome address.<br>
+                            Dr. Nageswara Gupta M, Principal has addressed the presidential remarks and Dr. JIJESH J J,
+                            HoD, ECE has briefed about the program. Prof. PRAKASHA.G, Registrar, SVCE has successfully executed
+                            this event with the organising team from faculty members of ECE.
+                            SVCE Management has thanked IETE, Bengaluru for technically sponsoring this event.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">21 Dec 2022</h6>
+                            <h2 class="mt-2">Intra-collegiate Innovative Idea Contest-2022</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Institution’s Innovation Council (IIC) - SaIT & Department of Electronics and Communication Engineering in Association with Student Chapters of SaIT IETE, IEEE, ISTE & EWB conducted an “Intra-collegiate Innovative Idea Contest-2022. Prof. S Sowndeswary was the program coordinator. Dr. C V Ravishankar presided over the event.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/3.webp">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">12 Dec 2022</h6>
+                            <h2 class="mt-2">Bharat Electronics Corporate Office Visit</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            A Team composed of IETE Honorary members went to Bharat Electronics Corporate Office to meet BEL CMD Shri Bhanu Prakah Srivastava.
+                            The team from IETE consisted of Dr. C P Dwivedi, Chairman, IETE Bangalore, Dr. S G Shivaprasad Yadav, Honorary Secretary, Prof. Bhatia, Former GC Member and Past Chairman, IETE Bangalore Centre, Mr. G Ramesh, Former GC Member and Past Chairman, IETE Bangalore Centre
+                            Dr. Gunashekhar Reddy (IETE President), Vice President and mentor Dr. Basavaraj Gadgay, Vice President Dr. K Jayashankar,and Shri Sunil, Honorary Treasurer, IETE HQ
+                            The meeting was regarding the conduction of IICI 2023 in collaboration with BEL. Other Senior Representatives of BEL also were part of the meeting.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">06 - 09 Nov 2022</h6>
+                            <h2 class="mt-2">A course on Unnamed Systems</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            A course on Unnamed Systems: Aerial, Ground and Underwater Vehicle and Challenges Course" was conducted for BEL.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">1 Dec 2022</h6>
+                            <h2 class="mt-2">ISF Innaugration at R R Institute of Technology</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Dr. S Mohan Kumar, Executive Committee member inaugurated ISF at R R Institute of technology as a Chief Guest. Dr. V Ilango was the Guest of Honor and he delivered a technical talk on Computational Thinking. Dr. Chinamaya Das was the ISF coordinator, he delivered vote of thanks.
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/4.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/5.webp">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">26 Nov 2022</h6>
+                            <h2 class="mt-2">Technical lecture at KSIT, Bangalore</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            This Guest Lecture is organized with an objective to provide insights as how to start writing research paper. The Guest lecture was held on 16th Nov 2022 at 10.00am in Seminar Hall, Ground Floor, New Building, KSIT. Dr. Surekha Borra, Professor, Dept. of ECE & Chief Research Coordinator, KSIT, Bangalore, started the event by welcoming the Guest Speaker Dr. Nilanjan Dey, Dignitaries and faculty Participants and briefed the importance of organizing the Guest Talk on “Addressing challenges in Research Publications”. Dr. PN Sudha, HoD, ECE Department welcomed the Guest speaker with a flower Bouquet. Dr. Surekha Borra introduced the speaker to the August gathering.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">25 Nov 2022</h6>
+                            <h2 class="mt-2">Webinar on “Non-Linear Control Systems”</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Department of Electronics & Communication Engineers (ECE) and Department of Electronics & Electrical Engineers (EEE) of Dr. T Thimmaiah Institute of Technology, Kolar in association with IETE Bangalore organized a webinar on “Non-Linear Control Systems” on 25th Nov 2022 by online. Mr. I Thirunavakarasu, Associate professor, Senior Scale, Manipal Institute of technology, Manipal was the chief guest and key note speaker.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">21 - 24 Nov 2022</h6>
+                            <h2 class="mt-2">Design Thinking and Innovation for New Product Development Course</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            A course on Design Thinking and Innovation for New Product Development Course was conducted for BEL executives, executives by Mr. Suryanarayana, Retd. DRDO Scientist.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">20 Nov 2022</h6>
+                            <h2 class="mt-2">IETE Foundation Day Celebrations</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            The 69th ETE foundation day was celebrated at IETE Bangalore on Sunday,20th Nov 2022. Dr. C P Dwivedi, Chairman, IETE Bangalore welcomed the gathering, he welcomed IETE President, Dr. (Prof.) V Gunasekhar Raddy, Chief Guest, Dr. Venugopal K R, Former Vice-Chancellor, Bangalore University, Past President, Governing Council Member, Senior IETE Fellow Members and Guests & students who were present in large number. Dr. S G Shivaprasad Yadav, Hon. Secretary, IETE Bangalore introduced the chief guest and invited him for a technical theme lecture. Dr. Venugopal K R delivered a lecture on “NEP 2022: A Paradigm Shift in Skill Based Higher Education: Challenges and Opportunities”. Sri. C Satyanandan, Past Chairman had some discussion on the subject, which was clarified by Dr. Venugopal. Dr. C P Dwivedi then introduced the MoU signed between IETE Bangalore and CMR University. He spoke its benefits and then MoU was exchanged between the parties. Dr. Gunasekhar Reddy, President IETE was the witness of the same and he signed also. Former Chairpersons of the Centre felicitated senior members, Prof. C Murali and Sri. Gerge Cleetus. Bothe members shared their experiences and delivered the motivation talks to encourage the today’s generations. Dr. Gunasekhar Reddy, President IETE presided over the function. He thanked all the corporate members in general and council members in person for their support to elect him as Governing Council Members consecutive three terms and then as IETE President for the year 2022-23. He blessed the IETE Bangalore Centre and promised to support in all the aspect for growth of the Centre. <br>
+                            The Vote of thanks proposed by Dr. D G Rao, Hon. Treasurer, the programme was end after the National Anthom.
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/6.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/8.webp">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">4 Nov 2022</h6>
+                            <h2 class="mt-2">Career guidance after UG and information about PG (MS. M. Tech, GRE, TOEFL, GATE, JRF)</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            A technical talk delivered by Dr. C V Ravishankar, Vice-Chairman, IETE Bangalore at RRIT Bangalore on ‘Career guidance after UG and information about PG (MS. M. Tech, GRE, TOEFL, GATE, JRF)’. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">3 Nov 2022</h6>
+                            <h2 class="mt-2">IIOT Course Innaugration</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            A course IIOT for 7 weeks were started by Sri. Vinay Avanchi, Sri. K S Ravi, Jt Secretary inaugurated the course. 
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/9.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">01 - 17 Nov 2022</h6>
+                            <h2 class="mt-2">The Institute of Chartered Accountant Indian (ICAI) Examinations</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            The Institute of Chartered Accountant Indian (ICAI) Examinations were conducted. Dr. C P Dwivedi, Prof. H S Bhatia, Sri. C Satyandan, Prof. C Murali, Sri. K S Ravi and Dr. S G Shivaprasad Yadav were Superintendent of Examinations (SoE) and Mr. Dinesh was the Chief Invigilator. The examinations were conducted during 01-17 Nov 2022. A total 3468 students were allocated to Centre. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">20 - 22 Oct 2022</h6>
+                            <h2 class="mt-2">A course on Fundamentals of XR and Its Applications</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            A course on Fundamentals of XR and Its Applications was conducted for BEL Executives. Mr. Suresh P, PTC Inc. was the course faculty, suggested by Sri. C Satyanandan, Immediate Past Chairman.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/10.webp">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">17 - 20 Oct 2022</h6>
+                            <h2 class="mt-2">Cambridge English Course</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            A Cambridge English course was conducted for LRDE executives. All faculties were drawn from Cambridge University.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">12 Oct 2022</h6>
+                            <h2 class="mt-2">Technical Talk on Future Technologies by 2030</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            A technical talk delivered by Prof. C Murali, DF and Former Vice President, IETE New Delhi at Dayananda Sagar College of Engineering on ‘Future Technologies by 2030’ and motivated them. Prof. H S Bhatia, Former Chairman, IETE Bangalore addressed the students and explained the benefits of ISF and Corporate membership. He mentioned that there is a 25% discount and all the categories of memberships up 31st Dec 2022.
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/11.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/12.webp">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">5 Oct 2022</h6>
+                            <h2 class="mt-2">Ayudha Pooja Celebrations</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Ayudha Pooja was celebrated at the IETE Bangalore Centre. Wg Cdr H R Parthasarathy, former Chairman, IETE Bangalore performed the customary pooja.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
 
         <?php include 'include/footer.php'; ?>
 </body>
