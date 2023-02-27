@@ -27,15 +27,7 @@
         <div class="container-xxl position-relative p-0">
             <?php include 'include/navbar.php'; ?>
 
-            <div class="container-xxl py-5 bg-primary hero-header mb-5">
-                <div class="container my-5 py-5 px-lg-5">
-                    <div class="row g-5 py-5">
-                        <div class="col-12 text-center">
-                            <h1 class="text-white animated zoomIn">Newsletters</h1>
-                            <hr class="bg-white mx-auto mt-0" style="width: 90px;">
-                        </div>
-                    </div>
-                </div>
+            <div class="container-xxl py-5 bg-primary mb-5">
             </div>
         </div>
         <!-- Navbar & Hero End -->
@@ -68,52 +60,90 @@
                 </div>
                 <div class="row g-5">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                        <p class="mb-4">
-                        <ol>
-                            <li>
-                                <b>Volume 1 - Jun to Aug 2018 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_1.pdf" target="_blank" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 2 - Sep to Nov 2018 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_2.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 3 - Dec 18 to Feb 19 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_3.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 4 - Mar to May 2019 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_4.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 5 - Jun to Aug 2019 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_5.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 6 - Oct to Dec 2019 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_6.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 7 - Jan to Jul 2020 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_7.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 8 - Aug to Oct 2020 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_8.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 9-Nov 20 to Feb 21 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_9.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 10 - Mar to May 2021 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_10.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 11 - May to Aug 2021 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_11.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 12 Sept to Nov 2021 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_12.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 13 Dec 21 to Feb 22 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_13.pdf" target="_blank">View</a>
-                            </li><br>
-                            <li>
-                                <b>Volume 14 March 22 to May 22 :</b> &nbsp;&nbsp; <a href="assets\newsletter\volume_14.pdf" target="_blank">View</a>
-                            </li><br>
-                        </ol>
-                        </p>
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Volume</th>
+                                        <th>Date Range</th>
+                                        <th>View</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Jun to Aug 2018</td>
+                                        <td><a href="assets\newsletter\volume_1.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Sep to Nov 2018</td>
+                                        <td><a href="assets\newsletter\volume_2.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Dec 18 to Feb 19</td>
+                                        <td><a href="assets\newsletter\volume_3.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>4</td>
+                                        <td>Mar to May 2019</td>
+                                        <td><a href="assets\newsletter\volume_4.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>5</td>
+                                        <td>Jun to Aug 2019</td>
+                                        <td><a href="assets\newsletter\volume_5.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>Oct to Dec 2019</td>
+                                        <td><a href="assets\newsletter\volume_6.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>7</td>
+                                        <td>Jan to Jul 2020</td>
+                                        <td><a href="assets\newsletter\volume_7.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>8</td>
+                                        <td>Aug to Oct 2020</td>
+                                        <td><a href="assets\newsletter\volume_8.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>9</td>
+                                        <td>Nov 20 to Feb 21</td>
+                                        <td><a href="assets\newsletter\volume_9.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>10</td>
+                                        <td>Mar to May 2021</td>
+                                        <td><a href="assets\newsletter\volume_10.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>11</td>
+                                        <td>May to Aug 2021</td>
+                                        <td><a href="assets\newsletter\volume_11.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>12</td>
+                                        <td>Sept to Nov 2021</td>
+                                        <td><a href="assets\newsletter\volume_12.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>13</td>
+                                        <td>Dec 21 to Feb 2022</td>
+                                        <td><a href="assets\newsletter\volume_13.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>14</td>
+                                        <td>March 22 to May 2022</td>
+                                        <td><a href="assets\newsletter\volume_14.pdf" target="_blank">View</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
 
                     </div>
                 </div>
