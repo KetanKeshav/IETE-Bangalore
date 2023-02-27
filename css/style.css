@@ -84,7 +84,7 @@ h6,
     position: relative;
     margin-left: 25px;
     padding: 35px 0;
-    color: var(--light) !important;
+    color: black !important;
     outline: none;
     transition: .5s;
     font-size: 14px;
@@ -101,16 +101,17 @@ h6,
 }
 
 .navbar-light .navbar-brand h1 {
-    color: #FFFFFF;
+    color: black;
+    background-color: #FFFFFF;
 }
 
 .navbar-light .navbar-brand img {
-    max-height: 50px;
+    max-height: 75px;
     transition: .5s;
 }
 
 .sticky-top.navbar-light .navbar-brand img {
-    max-height: 45px;
+    max-height: 70px;
 }
 
 @media (max-width: 991.98px) {
@@ -148,6 +149,7 @@ h6,
         left: 0;
         border-bottom: 1px solid rgba(256, 256, 256, .1);
         z-index: 999;
+        background-color: #FFFFFF;
     }
     
     .sticky-top.navbar-light {
@@ -185,17 +187,18 @@ h6,
 /*** Hero Header ***/
 .hero-header {
     background:
-        url(../img/bg-dot.png),
+        /* url(../img/bg-dot.png),
         url(../img/bg-dot.png),
         url(../img/bg-round.png),
         url(../img/bg-tree.png),
-        url(../img/bg-bottom-hero.png);
-    background-position:
+        url(../img/bg-bottom-hero.png); */
+        url(../img/bg-hero.webp);
+    /* background-position:
         10px 10px,
         bottom 190px right 10px,
         left 55% top -1px,
         left 45% bottom -1px,
-        center bottom -1px;
+        center bottom -1px; */
     background-repeat: no-repeat;
     background-color: #03a9f4 !important;
 }
