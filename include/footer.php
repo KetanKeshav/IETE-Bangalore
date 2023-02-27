@@ -44,7 +44,7 @@
         <div class="copyright">
             <div class="row">
                 <div class="col-md-12 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a class="border-bottom" href="#">IETE Bangalore</a>
+                    &copy; <a class="border-bottom" href="index.php">IETE Bangalore</a>
                 </div>
             </div>
         </div>
