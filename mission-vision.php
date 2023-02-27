@@ -27,15 +27,7 @@
         <div class="container-xxl position-relative p-0">
             <?php include 'include/navbar.php'; ?>
 
-            <div class="container-xxl py-5 bg-primary hero-header mb-5">
-                <div class="container my-5 py-5 px-lg-5">
-                    <div class="row g-5 py-5">
-                        <div class="col-12 text-center">
-                            <h1 class="text-white animated zoomIn">Mission and Vision</h1>
-                            <hr class="bg-white mx-auto mt-0" style="width: 90px;">
-                        </div>
-                    </div>
-                </div>
+            <div class="container-xxl py-5 bg-primary mb-5">
             </div>
         </div>
         <!-- Navbar & Hero End -->
