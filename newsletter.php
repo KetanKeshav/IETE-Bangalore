@@ -27,7 +27,7 @@
         <div class="container-xxl position-relative p-0">
             <?php include 'include/navbar.php'; ?>
 
-            <div class="container-xxl py-5 bg-primary mb-5">
+            <div class="container-xxl py-5">
             </div>
         </div>
         <!-- Navbar & Hero End -->

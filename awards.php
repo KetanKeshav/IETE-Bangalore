@@ -12,7 +12,7 @@
     <?php include 'include/head.php'; ?>
 </head>
 
-<body>
+<body class="text-justify">
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
         <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
@@ -27,7 +27,7 @@
         <div class="container-xxl position-relative p-0">
             <?php include 'include/navbar.php'; ?>
 
-            <div class="container-xxl py-5 bg-primary mb-5">
+            <div class="container-xxl py-5">
             </div>
         </div>
         <!-- Navbar & Hero End -->

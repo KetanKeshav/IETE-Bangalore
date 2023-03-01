@@ -27,7 +27,7 @@
         <div class="container-xxl position-relative p-0">
             <?php include 'include/navbar.php'; ?>
 
-            <div class="container-xxl py-5 bg-primary mb-5">
+            <div class="container-xxl py-5">
             </div>
         </div>
         <!-- Navbar & Hero End -->
@@ -58,7 +58,7 @@
                     <h6 class="position-relative d-inline text-primary ps-4">Mission and Vision</h6>
                     <h2 class="mt-2">Mission and Vision</h2>
                 </div>
-                <div class="row g-5">
+                <div class="row g-5 text-justify">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="section-title position-relative mb-4 pb-2">
                             <h2 class="mt-2">Mission</h2>

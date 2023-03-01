@@ -25,8 +25,8 @@
 
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
-            <?php include 'include/navbar.php'; ?>
+        <!-- <div class="container-xxl position-relative p-0">
+            <?php // include 'include/navbar.php'; ?>
 
             <div class="container-xxl py-5 hero-header mb-5">
                 <div class="container my-5 py-5 px-lg-5">
@@ -42,9 +42,71 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Navbar & Hero End -->
+        <!-- Navbar & Hero Start -->
+<div class="container-xxl position-relative p-0">
+    <?php include 'include/navbar.php'; ?>
 
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active hero-header-1">
+                <div class="container my-5 py-5 px-lg-5">
+                    <div class="row g-5 py-5">
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <h1 class="text-white mb-4 animated zoomIn">The Institution of Electronics and Telecommunication Engineers</h1>
+                            <p class="text-white pb-3 animated zoomIn">India's leading recognized professional society devoted to the advancement of Science and Technology of Electronics, Telecommunication & IT</p>
+                            <a href="#about" class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Know More</a>
+                        </div>
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <img class="img-fluid" src="img/f1.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item hero-header-2">
+                <div class="container my-5 py-5 px-lg-5">
+                    <div class="row g-5 py-5">
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <h1 class="text-white mb-4 animated zoomIn">The Institution of Electronics and Telecommunication Engineers</h1>
+                            <p class="text-white pb-3 animated zoomIn">India's leading recognized professional society devoted to the advancement of Science and Technology of Electronics, Telecommunication & IT</p>
+                            <a href="#about" class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Know More</a>
+                        </div>
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <img class="img-fluid" src="img/f1.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item hero-header-3">
+                <div class="container my-5 py-5 px-lg-5">
+                    <div class="row g-5 py-5">
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <h1 class="text-white mb-4 animated zoomIn">The Institution of Electronics and Telecommunication Engineers</h1>
+                            <p class="text-white pb-3 animated zoomIn">India's leading recognized professional society devoted to the advancement of Science and Technology of Electronics, Telecommunication & IT</p>
+                            <a href="#about" class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Know More</a>
+                        </div>
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <img class="img-fluid" src="img/f1.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+</div>
+<!-- Navbar & Hero End -->
+
+        
 
         <!-- Full Screen Search Start -->
         <div class="modal fade" id="searchModal" tabindex="-1">

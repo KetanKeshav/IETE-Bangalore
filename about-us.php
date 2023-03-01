@@ -27,7 +27,7 @@
         <div class="container-xxl position-relative p-0">
             <?php include 'include/navbar.php'; ?>
 
-            <div class="container-xxl py-5 bg-primary mb-5">
+            <div class="container-xxl py-5">
             </div>
         </div>
         <!-- Navbar & Hero End -->
@@ -58,7 +58,7 @@
                     <h6 class="position-relative d-inline text-primary ps-4">About Us</h6>
                     <h2 class="mt-2">About Us</h2>
                 </div>
-                <div class="row g-5">
+                <div class="row g-5 text-justify">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                         <p class="mb-4">The Institution of Electronics and Telecommunication Engineers (IETE) is India's leading recognized professional society devoted to the advancement of Science and Technology of Electronics, Telecommunication & IT. Founded in 1953. The IETE is the National Apex Professional body of Electronics and Telecommunication, Computer Science and IT Professionals. It serves more than 1, 25,000 members (including Corporate, Student and ISF members) through various 64 Centres, spread all over India and abroad. The Institution provides leadership in Scientific and Technical areas of direct importance to the national development and economy. Government of India has recognized IETE as a Scientific and Industrial Research Organisation (SIRO) and also notified as an educational Institution of national eminence. The objectives of IETE focus on advancing electro-technology. The IETE conducts and sponsors technical meetings, conferences, symposia, and exhibitions all over India, publishes technical journals and provides continuing education as well as career advancement opportunities to its members.</p>
                         <p class="mb-4">The IETE focuses on advancement of the Science and Technology of Electronics, Telecommunication, Computers, Information Technology and related areas. Towards this end the Institution promotes and conducts basic engineering and continuing technical education programmes for human resource development.</p>
