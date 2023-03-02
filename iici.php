@@ -63,26 +63,30 @@
         <!-- Portfolio End -->
 
         <!-- Event Start -->
+        <center>
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
                 <div class="row g-5">
-                    <div class="col-lg-12">
+                    <div class="col-lg-10">
                         <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/cfp.webp">
                     </div>
                 </div>
             </div>
         </div>
+        </center>
         <!-- Event End -->
         <!-- Event Start -->
+        <center>
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
                 <div class="row g-5">
-                    <div class="col-lg-12">
+                    <div class="col-lg-10">
                         <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/sponsorship.webp">
                     </div>
                 </div>
             </div>
         </div>
+        </center>
         <!-- Event End -->
 
         ]
