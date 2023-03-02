@@ -21,6 +21,7 @@
                     <a href="about-us.php" class="dropdown-item <?php if($page == 'about-us') echo 'active' ?>">More about IETE</a>
                 </div>
             </div>
+            <a href="iici.php" class="nav-item nav-link <?php if($page == 'iici') echo 'active' ?>">IICI 2023</a>
             <a href="awards.php" class="nav-item nav-link <?php if($page == 'awards') echo 'active' ?>">Awards</a>
             <a href="events.php" class="nav-item nav-link <?php if($page == 'events') echo 'active' ?>">Events</a>
             <!-- <a href="#" class="nav-item nav-link">IICI-23</a> -->
