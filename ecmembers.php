@@ -68,7 +68,7 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/1.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/1.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">SRI. C P DWIVEDI</h5>
@@ -85,7 +85,7 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/2.png" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/2.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">SRI. C SATYANANDAN</h5>
@@ -102,7 +102,7 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/3.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/3.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">DR. S G SHIVAPRASAD YADAV</h5>
@@ -119,7 +119,7 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/4.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/4.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">DR. D G RAO</h5>
@@ -138,7 +138,7 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/5.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/5.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">DR. C V RAVISHANKAR</h5>
@@ -155,7 +155,7 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/6.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/6.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">SRI. PUNEET KUMAR MISHRA</h5>
@@ -172,7 +172,7 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/7.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/7.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">SRI. K S RAVI</h5>
@@ -189,7 +189,7 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/8.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/8.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">SRI. R PRAKASH</h5>
@@ -208,7 +208,41 @@
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="img/team/11.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/9.webp" alt="">
+                            </div>
+                            <div class="px-4 py-3">
+                                <h5 class="fw-bold m-0">Dr. Keshavamurthy</h5>
+                                <small>EXECUTIVE COMMITTEE MEMBER</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="team-item">
+                            <div class="d-flex">
+                                <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
+                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                                <img class="img-fluid rounded w-100" src="img/team/10.webp" alt="">
+                            </div>
+                            <div class="px-4 py-3">
+                                <h5 class="fw-bold m-0">Dr. KM Sudharshan</h5>
+                                <small>EXECUTIVE COMMITTEE MEMBER</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="team-item">
+                            <div class="d-flex">
+                                <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
+                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                                <img class="img-fluid rounded w-100" src="img/team/11.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">SRI. S PURUSHOTHAMAN</h5>

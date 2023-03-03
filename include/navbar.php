@@ -35,6 +35,7 @@
                     <a href="#" class="dropdown-item">ISF Colleges</a>
                 </div>
             </div> -->
+            <a href="payment.php" class="nav-item nav-link <?php if($page == 'payment') echo 'active' ?>">Payment</a>
             <a href="contact.php" class="nav-item nav-link <?php if($page == 'contact') echo 'active' ?>">Contact</a>
         </div>
     </div>

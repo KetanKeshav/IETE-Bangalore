@@ -82,12 +82,12 @@ h6,
 /*** Navbar ***/
 .navbar-light .navbar-nav .nav-link {
     position: relative;
-    margin-left: 25px;
-    padding: 35px 0;
+    margin-left: 15px;
+    padding: 30px 0;
     color: black !important;
     outline: none;
     transition: .5s;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .sticky-top.navbar-light .navbar-nav .nav-link {

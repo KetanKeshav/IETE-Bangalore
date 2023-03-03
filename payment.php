@@ -60,13 +60,17 @@
                 </div>
                 <div class="row g-5">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                        <p class="mb-4">
-                        <ol>
-                            <li>
-                                <b>04-</b> : Prof. H S Bhatia, Chairman, IETE Bangalore inaugurated IETE Students Forum at New Horizon College of Engineering, Bangalore. Prof. C Murali was the guest of honor and delivered the technical talk on Latest trends on 5G. Dr. Sanjeev Sharma, Head of the department proposed vote of thanks.
-                            </li><br>
+                        <p class="mb-4 text-justify">
+                            All payments are to be made by online/Demand Draft drawn in
+                            favour of <b>"IICI Bangalore"</b> Payable at Bangalore with
+                            intimation to us<br><br>
+                            <b>Bank Details :</b><br>
+                            Account Name : <b>IICI Bangalore</b><br>
+                            Account Number : <b>37278207802</b><br>
+                            Account Type : <b>Current Account</b><br>
+                            Bank Name : <b>State Bank of India (SBI), Ganganahalli Bangalore</b><br>
+                            IFSCCode : <b>SBIN0040276</b>
 
-                        </ol>
                         </p>
 
                     </div>
