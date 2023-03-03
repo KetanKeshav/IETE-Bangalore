@@ -98,13 +98,17 @@
                 </div>
                 <div class="row g-5 mt-2">
                     <!-- Insert three buttons to Download Brochure, Download Call for Papers and Download Call For SPonsors -->
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <a href="./assets/downloads/CFP.pdf" download="IICI-23-CFP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Call For Papers</a>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <a href="./assets/downloads/Brochure.pdf" download="IICI-23-Brochure" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Brochure</a>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
+                        <a href="https://cmt3.research.microsoft.com/IICI2023" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" target="_bl
+                        ">Submit your paper</a>
+                    </div>
+                    <div class="col-lg-3">
                         <a href="./assets/downloads/CFSP.pdf" download="IICI-23-CFSP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Call For Sponsors</a>
                     </div>
                 </div>
