@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php $page = 'isf-activities'; ?>
+<?php $page = 'payment'; ?>
 
 <head>
     <meta charset="utf-8">
