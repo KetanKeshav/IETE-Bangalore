@@ -1,13 +1,13 @@
 <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0 ">
     <a href="index.php" class="navbar-brand p-0">
         <!-- <h1 class="m-0"><i class="fa fa-search me-2"></i>SEO<span class="fs-5">Master</span></h1> -->
-        <img src="img/logo.png" alt="Logo">
+        <img src="img/logo-n.png" alt="Logo">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span class="fa fa-bars"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
-        <div class="navbar-nav ms-auto py-0">
+        <div class="navbar-nav py-0">
             <?php $about = array("ec","history","about-us","mission-vision","awards","newsletter"); ?>
             <a href="index.php" class="nav-item nav-link <?php if($page == 'home') echo 'active' ?>">Home</a>
             <div class="nav-item dropdown">
@@ -36,6 +36,7 @@
                 </div>
             </div> -->
             <a href="payment.php" class="nav-item nav-link <?php if($page == 'payment') echo 'active' ?>">Payment</a>
+            <a href="gallery.php" class="nav-item nav-link <?php if($page == 'gallery') echo 'active' ?>">Gallery</a>
             <a href="contact.php" class="nav-item nav-link <?php if($page == 'contact') echo 'active' ?>">Contact</a>
         </div>
     </div>
