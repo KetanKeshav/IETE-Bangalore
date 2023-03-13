@@ -104,6 +104,21 @@
                         <div class="carousel-item">
                             <img src="img/events/12.webp" class="d-block w-100" alt="...">
                         </div>
+                        <div class="carousel-item">
+                            <img src="img/events/13.webp" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/events/14.webp" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/events/15.webp" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/events/16.webp" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/events/17.webp" class="d-block w-100" alt="...">
+                        </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
