@@ -289,7 +289,7 @@
                             <h2 class="mt-2">Career guidance after UG and information about PG (MS. M. Tech, GRE, TOEFL, GATE, JRF)</h2>
                         </div>
                         <p class="mb-4 text-justify">
-                            A technical talk delivered by Dr. C V Ravishankar, Vice-Chairman, IETE Bangalore at RRIT Bangalore on ‘Career guidance after UG and information about PG (MS. M. Tech, GRE, TOEFL, GATE, JRF)’. 
+                            A technical talk delivered by Dr. C V Ravishankar, Vice-Chairman, IETE Bangalore at RRIT Bangalore on ‘Career guidance after UG and information about PG (MS. M. Tech, GRE, TOEFL, GATE, JRF)’.
                         </p>
                     </div>
                 </div>
@@ -307,7 +307,7 @@
                             <h2 class="mt-2">IIOT Course Innaugration</h2>
                         </div>
                         <p class="mb-4 text-justify">
-                            A course IIOT for 7 weeks were started by Sri. Vinay Avanchi, Sri. K S Ravi, Jt Secretary inaugurated the course. 
+                            A course IIOT for 7 weeks were started by Sri. Vinay Avanchi, Sri. K S Ravi, Jt Secretary inaugurated the course.
                         </p>
                     </div>
                     <div class="col-lg-6">
@@ -328,7 +328,7 @@
                             <h2 class="mt-2">The Institute of Chartered Accountant Indian (ICAI) Examinations</h2>
                         </div>
                         <p class="mb-4 text-justify">
-                            The Institute of Chartered Accountant Indian (ICAI) Examinations were conducted. Dr. C P Dwivedi, Prof. H S Bhatia, Sri. C Satyandan, Prof. C Murali, Sri. K S Ravi and Dr. S G Shivaprasad Yadav were Superintendent of Examinations (SoE) and Mr. Dinesh was the Chief Invigilator. The examinations were conducted during 01-17 Nov 2022. A total 3468 students were allocated to Centre. 
+                            The Institute of Chartered Accountant Indian (ICAI) Examinations were conducted. Dr. C P Dwivedi, Prof. H S Bhatia, Sri. C Satyandan, Prof. C Murali, Sri. K S Ravi and Dr. S G Shivaprasad Yadav were Superintendent of Examinations (SoE) and Mr. Dinesh was the Chief Invigilator. The examinations were conducted during 01-17 Nov 2022. A total 3468 students were allocated to Centre.
                         </p>
                     </div>
                 </div>
@@ -358,7 +358,7 @@
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
                 <div class="row g-5">
-                <div class="col-lg-6">
+                    <div class="col-lg-6">
                         <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/10.webp">
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -375,7 +375,7 @@
         </div>
         <!-- Event End -->
 
-        <!-- Event Start -->
+        <!-- Right Event Start -->
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
                 <div class="row g-5">
@@ -396,11 +396,11 @@
         </div>
         <!-- Event End -->
 
-        <!-- Event Start -->
+        <!-- Left Event Start -->
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
                 <div class="row g-5">
-                <div class="col-lg-6">
+                    <div class="col-lg-6">
                         <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/12.webp">
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -416,6 +416,211 @@
             </div>
         </div>
         <!-- Event End -->
+
+        <!-- Full Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">26 - 28 Sep 2022</h6>
+                            <h2 class="mt-2">Technology Strategic for Strategic Weapons</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            IETE Bangalore conducted a Technology Strategic for Strategic Weapons for BEL Executives Executives in hybrid mode at Bharat Electronincs Acedemy of Exellence (BAE), Nalanda. Dr. Suryanarayan, Retd. Director of DRDO was the Course Director.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Right Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">18 Sep 2022</h6>
+                            <h2 class="mt-2">IETE ZONAL SEMINAR </h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            IETE Bangalore organised the IETE Zonal Seminar (South) on Sunday, 18th Sept 2022 on Cyber Forensics and Cyber Security’. Dr. S D Sudarshna, Executive Director, C-DAC was the chief guest, he inaugurates the seminar in the presence of IETE President.
+                            <br>
+                            Four technical sessions were arranged on various topics handled by eminent industry experts. 
+                            <ul>
+                                <li>Session-1 on Cyber Security in the Metaverse World handled by Dr. Balaji Rajendran himself</li>
+                                <li>Session-2 on Zero Trust Architecture conducted by Dr. Muraleedharan, C-DAC Bangalore</li>
+                                <li>Session-3 on Ransomware Detection and Forensics delivered by Mr. Gopinath, C-DAC Bangalore</li>
+                                <li>Session-4 on A Detailed Practical Demonstration on How Hackers/Cyber Criminals are Looting E-commerce Platforms by Santosh Chaluvadi (CEO, Supraja Technologies) & Naveen Kumar, CTO, Supraja Technologies conducted with hands on session.</li>
+                            </ul>
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/13.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Left Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/14.webp">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">17 - 18 Sep 2022</h6>
+                            <h2 class="mt-2">ISF Congress & Engineers Day</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            IETE Bangalore organised a ISF CONGRESS on Saturday, 17th Sept 2022. The program started with invocation song, sung by Ms. Prathibha H V, Dr. C V Ravishankar, Program Convener & Vice-Chairman, IETE Bangalore welcomed the gathering, assembled in Deltion Auditorium. He called dignities on the dais and requested them to inaugurate the ISF Congress with lighting the lamp.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Right Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">28 Aug - 25 Sep 2022</h6>
+                            <h2 class="mt-2">Internship for Engineering Students on Embedded Systems and IoT Applications</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            IETE Bangalore conducted a one month Internship for Engineering Students on Embedded Systems and IoT Applications, Inaugrated by Sri. C Satyanandan, Immeidate Past Chairman, IETE Bangalore.  90 students joined the internship from variious academic instittutions/Engineering colleges from Bangalore, Kolar, Hospate and many other places. We drawn the resource persons from C-DAC, C-DoT and academic institutions. Students comleted  their hands on practical training at IoT lab with the support of Embedded Kit. 
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/15.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Left Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/16.webp">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">15 Aug 2022</h6>
+                            <h2 class="mt-2">75th Azadi ka Amrit Mahotsava</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            75th Azadi ka Amrit Mahotsava was celebrated during Independence Day. Prof. N C Shivapraksh (Retd.), IISc was the Chief Guest and he did Flag Hoisting. A large number of members attended the program. Sweets were distributed on this occation. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Full Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">5 - 6 Aug 2022</h6>
+                            <h2 class="mt-2">Advanced Radar Course</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            IETE Bangalore conducted an Advanced Radar Course for BEL Executives Executives in hybrid mode at Bharat Electronincs Acedemy of Exellence (BA), Nalanda. Dr. D C Pande, Former Chairman, IETE Bangalore was the Course Director.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Full Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">27 - 30 July 2022</h6>
+                            <h2 class="mt-2">Microstrip Antennas Course</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            IETE Bangalore conducted a Microstrip Antennas Course for BEL Executives in hybrid mode at Bharat Electronincs Acedemy of Exellence (BA), Nalanda. Dr. S G Shivaprasad Yadav, Hon. Secretary was the Course Director. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Full Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">24 July 2022</h6>
+                            <h2 class="mt-2">ISF Coordinators Meet </h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Dr. C V Ravishankar, Vice-Chairman and ISF Coordinator called an ISF Coordinators Meet to discuss about courses and internship programs and he requested them to participate in all IETE Bangalore activities and large no., The meeting was held on online mode. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Full Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">31 July - 25 September 2022</h6>
+                            <h2 class="mt-2">Advanced FPGA Design Weekend Course </h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Mr. Padmanabham, Intel conducted an Advanced FPGA Design weekend course. The session were conducted online via googlemeet on Sundays.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+        <!-- Right Event Start -->
+        <div class="container-xxl py-5">
+            <div class="container px-lg-5">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="section-title position-relative mb-4 pb-2">
+                            <h6 class="position-relative text-primary ps-4">28 June 2022</h6>
+                            <h2 class="mt-2">New Trends in Radar Technology</h2>
+                        </div>
+                        <p class="mb-4 text-justify">
+                            Prof. N S Nagaraja Memorial Lecture was conducted. Captain T N Pranesh I N (Retd.), Alpha Design Technologies was the chief guest and he delivered the memorial lecture on ‘New Trends in Radar Technology’. Shri C Sathyanandan, Chairman of IETE Bengaluru Presided over the function. Dr. S G Shivaprasad Yadav welcomed the gathering. Sri. Ranjeet Kumar Hon. Treasurer proposed the vote of thanks. The memorial Lecture was followed by Annual general Body Meeting (AGM-22).
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/events/17.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Event End -->
+
+
 
         <?php include 'include/footer.php'; ?>
 </body>
