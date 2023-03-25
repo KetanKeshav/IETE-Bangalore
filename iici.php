@@ -124,6 +124,9 @@
                     <div class="col-lg-3">
                         <a href="./assets/downloads/CFS.pdf" download="IICI-23-CFSP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Call For Sponsors</a>
                     </div>
+                    <div class="col-lg-3">
+                        <a href="https://iete.org/IETE-Journal%20of%20Research%20Template.pdf" download="IICI-23-CFSP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Conference Paper Template</a>
+                    </div>
                 </div>
                 <div class="container-xxl py-5">
                     <div class="container px-lg-5">

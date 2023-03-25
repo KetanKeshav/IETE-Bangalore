@@ -59,35 +59,28 @@
                     <h2 class="mt-2">Payment Details</h2>
                 </div>
                 <div class="row g-5">
-                    <!-- <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                        <p class="mb-4 text-justify">
-                            All payments are to be made by online/Demand Draft drawn in
-                            favour of <b>"IICI Bangalore"</b> Payable at Bangalore with
-                            intimation to us<br><br>
-                            <b>Bank Details :</b><br>
-                            Account Name : <b>IICI Bangalore</b><br>
-                            Account Number : <b>37278207802</b><br>
-                            Account Type : <b>Current Account</b><br>
-                            Bank Name : <b>State Bank of India (SBI), Ganganahalli Bangalore</b><br>
-                            IFSCCode : <b>SBIN0040276</b>
-                        </p>
-                    </div> -->
                     <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <h2 class="text-center">
-                            Google form link for IETE Bangalore Payment<br>
-                            <a href="https://forms.gle/YV7YC5zpyng8nJ7P9">IETE Bangalore</a>
+                            IETE Bangalore Payment<br>
                         </h2>
+                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEGFUlhO4whF7VzcDRqSNnGzdypEM0UMOhGCQDPGWEEFYsRg/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                    </div>
+                    <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="img-fluid">
                             <center>
                                 <img src="img/payments/1.webp" alt="payment" class="img-fluid" width="70%">
                             </center>
                         </div>
                     </div>
+                </div>
+                <div class="row g-5">
                     <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <h2 class="text-center">
-                            Google form link for IICI 2023<br>
-                            <a href="https://forms.gle/SJAzUExDdmTaq9wW7">IICI 2023</a>
+                            IICI 2023 Payment<br>
                         </h2>
+                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeIH4ger6-pYjf_EeniedqTndBXtOUt73Y3AaAY-1xs4ciIVQ/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                    </div>
+                    <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="img-fluid">
                             <center>
                                 <img src="img/payments/2.webp" alt="payment" class="img-fluid" width="70%">
