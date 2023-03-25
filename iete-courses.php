@@ -73,8 +73,8 @@
                                 <tbody>
                                     <tr>
                                         <th scope="row">1</th>
-                                        <td>Advanced IOT</td>
-                                        <td>Course Details</td>
+                                        <td>Cyber Security</td>
+                                        <td><a href="./assets/downloads/Course Content of Cyber Security.pdf" class="btn btn-primary" download="Cyber Security IETE Course">Course Details</a></td>
                                     </tr>
                                     <tr>
                                         <th scope="row">2</th>
@@ -129,6 +129,11 @@
                                     <tr>
                                         <th scope="row">12</th>
                                         <td>Python with Big Data</td>
+                                        <td>Course Details</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">13</th>
+                                        <td>Advanced IOT</td>
                                         <td>Course Details</td>
                                     </tr>
                                 </tbody>
