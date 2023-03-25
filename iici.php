@@ -193,6 +193,153 @@
                                     </div>
                                 </div>
                             </div>
+                            <!-- Tutorial -->
+                            <div class="row g-5">
+                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                    <div class="position-relative mb-4 pb-2">
+                                        <h2 class="mt-2 text-center">Tutorial</h2>
+                                        <p class="mb-4 text-justify">
+                                            Leading experts in the domain of 5G-Advanced and initial Research in
+                                            6G / AI / ML will be conducting a pre-conference Tutorial on 03rd May
+                                            2023 covering in-depth finer aspects of these technologies.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Exhibition -->
+                            <div class="row g-5">
+                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                    <div class="position-relative mb-4 pb-2">
+                                        <h2 class="mt-2 text-center">Exhibition</h2>
+                                        <p class="mb-4 text-justify">
+                                            A technical exhibition will be organized during the conference. It gives
+                                            a great opportunity for the technology companies to exhibit their products
+                                            and services. Please contact the organizers for the details.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Sponsorship & Souvenir -->
+                            <div class="row g-5">
+                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                    <div class="position-relative mb-4 pb-2">
+                                        <h2 class="mt-2 text-center">Sponsorship & Souvenir Advertisements:</h2>
+                                        <p class="mb-4 text-justify">
+                                            IICI-23 also gives a great opportunity to sponsor the conference
+                                            through Platinum, Gold, Silver and other event Sponsorships to support
+                                            and get greater visibility at the conference and also through advertisements
+                                            in the special Souvenir to be released. Please contact the organizers for the
+                                            details.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Call for Papers -->
+                            <div class="row g-5">
+                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                    <div class="position-relative mb-4 pb-2">
+                                        <h2 class="mt-2 text-center">Call for Papers</h2>
+                                        <p class="mb-4 text-justify">
+                                            All researchers working in the domain of Wireless Communications, AI & ML
+                                            are requested to submit their contributions in these broad areas for
+                                            presentation in IICI-2023. <br>
+                                            Some suggested topics (but not limited to only these): All aspects of 5G, 5G-
+                                            Advanced, 6G & AI particularly related to: 6G network, NR, Massive MIMO,
+                                            Beam Forming, mmwave, Waveforms, Numerology, eMBB, mMTC, uRLC,
+                                            Mobile Edge & Fog Computing, NTN, Spectrum Sensing & Sharing,
+                                            Positioning, Cell Free massive MIMO, Holographic Radio, IRS, A1, ML, Deep
+                                            Learning, Network Slicing / SDN / Network Virtualization, Applications of
+                                            5G/6G/AI etc. <br>
+                                            Selected accepted papers will be published in peer reviewed journal.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Important Dates -->
+                            <div class="row g-5">
+                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                    <div class="position-relative mb-4 pb-2">
+                                        <h2 class="mt-2 text-center">Important Dates</h2>
+                                        <div class="row g-5">
+                                            <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                                <div class="table-responsive">
+                                                    <table class="table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Action</th>
+                                                                <th>Last Date</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Last Date for Receipt of Papers :</td>
+                                                                <td>25 Mar 2023</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Notification of Paper Acceptance:</td>
+                                                                <td>10 April 2023</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Receipt of Acxepted Full Papers :</td>
+                                                                <td>20 April 2023</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Last date for Registration (with concessions) :</td>
+                                                                <td>25 April 2023</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Conference :</td>
+                                                                <td>03 to 05 May 2023</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Registration -->
+                            <div class="row g-5">
+                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                    <div class="position-relative mb-4 pb-2">
+                                        <h2 class="mt-2 text-center">Registration</h2>
+                                        <div class="row g-5">
+                                            <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                                <div class="table-responsive">
+                                                    <table class="table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Includes</th>
+                                                                <th>Amount</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Tutorial :</td>
+                                                                <td>Rs 2000 (before 25th April 2023)<br>Rs 2500 (after 25th April 2023)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Conference :</td>
+                                                                <td>Rs 5000 (before 25th April 2023)<br>Rs 5500 (after 25th April 2023)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Conference + Tutorial :</td>
+                                                                <td>Rs 6500 (before 25th April 2023)<br>Rs 7000 (after 25th April 2023)</td>
+                                                            </tr>
+                                                    </table>
+                                                </div>
+                                                <p class="mb-4 text-justify">
+                                                    IETE members and Academic Faculty: 20% CONSESSION <br>
+                                                    ISF STUDENIS: 50% CONCESSION <br>
+                                                    Please contact 11C1-23 Coordinators at: <br> Dr M H Kori/ Dr C P Dwivedi/ Dr Shiva Prasad Yadav, at iici23iete@gmail.com, mhkori@gmail.com, dwivedichandra@yahoo.com, shivaspy@gmail.com, bangalore@iete.org
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
