@@ -22,14 +22,11 @@
         </div>
         <!-- Spinner End -->
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
-
+        <marquee class="text-decoration-none" style="font-size: 18px; padding:10px; background-color:#000; color:#fff;" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+            Registrations for IICI - 2023 has been opened.
+        </marquee>
+        <div class="container-xxl position-relative p-0" style="margin-top: -10px;">
             <?php include 'include/navbar.php'; ?>
-            <marquee class="text-decoration-none text-dark" style="margin-top: 85px; font-size: 18px;" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-                Registrations for IICI - 2023 has been opened
-            </marquee>
-
-
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active hero-header-1">
