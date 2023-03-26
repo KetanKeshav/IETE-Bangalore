@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php $page = 'iici-registration'; ?>
+<?php $page = 'iici-dates'; ?>
 
 <head>
     <meta charset="utf-8">
-    <title>Registration | IICI 2023</title>
+    <title>Important Dates | IICI 2023</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -56,9 +56,9 @@
             <div class="container px-lg-5">
                 <div class="section-title position-relative text-center mb-5 pb-2 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="position-relative d-inline text-primary ps-4">IICI 2023</h6>
-                    <h2 class="mt-2">Registration</h2>
+                    <h2 class="mt-2">Important Dates</h2>
                 </div>
-                <!-- Registration -->
+                <!-- Important Dates -->
                 <div class="row g-5">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="position-relative mb-4 pb-2">
@@ -68,29 +68,34 @@
                                         <table class="table">
                                             <thead>
                                                 <tr>
-                                                    <th>Includes</th>
-                                                    <th>Amount</th>
+                                                    <th>Action</th>
+                                                    <th>Last Date</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>Tutorial :</td>
-                                                    <td>Rs 2000 (before 25th April 2023)<br>Rs 2500 (after 25th April 2023)</td>
+                                                    <td>Last Date for Receipt of Papers :</td>
+                                                    <td>31 Mar 2023</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Notification of Paper Acceptance:</td>
+                                                    <td>15 April 2023</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Receipt of Acxepted Full Papers :</td>
+                                                    <td>25 April 2023</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Last date for Registration:</td>
+                                                    <td>25 April 2023</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Conference :</td>
-                                                    <td>Rs 5000 (before 25th April 2023)<br>Rs 5500 (after 25th April 2023)</td>
+                                                    <td>03 to 05 May 2023</td>
                                                 </tr>
-                                                <tr>
-                                                    <td>Conference + Tutorial :</td>
-                                                    <td>Rs 6500 (before 25th April 2023)<br>Rs 7000 (after 25th April 2023)</td>
-                                                </tr>
+                                            </tbody>
                                         </table>
                                     </div>
-                                    <p class="mb-4 text-justify">
-                                        IETE members and Academic Faculty: 20% CONSESSION <br>
-                                        ISF STUDENIS: 50% CONCESSION <br>
-                                    </p>
                                 </div>
                             </div>
                         </div>

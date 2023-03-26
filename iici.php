@@ -229,50 +229,7 @@
                             </div>
                             
                            
-                            <!-- Important Dates -->
-                            <div class="row g-5">
-                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                                    <div class="position-relative mb-4 pb-2">
-                                        <h2 class="mt-2 text-center">Important Dates</h2>
-                                        <div class="row g-5">
-                                            <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                                                <div class="table-responsive">
-                                                    <table class="table">
-                                                        <thead>
-                                                            <tr>
-                                                                <th>Action</th>
-                                                                <th>Last Date</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-                                                                <td>Last Date for Receipt of Papers :</td>
-                                                                <td>25 Mar 2023</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>Notification of Paper Acceptance:</td>
-                                                                <td>10 April 2023</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>Receipt of Acxepted Full Papers :</td>
-                                                                <td>20 April 2023</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>Last date for Registration (with concessions) :</td>
-                                                                <td>25 April 2023</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>Conference :</td>
-                                                                <td>03 to 05 May 2023</td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                             
 
                         </div>
