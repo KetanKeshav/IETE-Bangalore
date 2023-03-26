@@ -23,14 +23,14 @@
                     <a href="about-us.php" class="dropdown-item <?php if($page == 'about-us') echo 'active' ?>">More about IETE</a>
                 </div>
             </div>
-            <?php $iici = array("iici","iici-cfp","iici-cfs"); ?>
+            <?php $iici = array("iici","iici-cfp","iici-cfs","iici-registration"); ?>
             <div class="nav-item dropdown">
                 <a href="iici.php" class="nav-link <?php if(in_array($page,$iici)) echo 'active' ?> dropdown-toggle" data-bs-toggle="dropdown">IICI 2023</a>
                 <div class="dropdown-menu m-0">
                     <a href="iici.php" class="dropdown-item <?php if($page == 'iici') echo 'active' ?>">IICI 2023</a>
                     <a href="iici-cfp.php" class="dropdown-item <?php if($page == 'iici-cfp') echo 'active' ?>">Call For Papers</a>
                     <a href="iici-cfs.php" class="dropdown-item  <?php if($page == 'iici-cfs') echo 'active' ?>">Call For Sponsors</a>
-                    <a href="mission-vision.php" class="dropdown-item <?php if($page == 'mission-vision') echo 'active' ?>">Registration</a>
+                    <a href="iici-registration.php" class="dropdown-item <?php if($page == 'iici-registration') echo 'active' ?>">Registration</a>
                     <a href="awards.php" class="dropdown-item <?php if($page == 'awards') echo 'active' ?>">Important Dates</a>
                 </div>
             </div>
