@@ -72,6 +72,11 @@
                             in these broad areas for presentation in IICI-2023.<br><br>
                             Some suggested topics (but not limited to only these): All aspects of Technologies & Applications of 5G, 5G-
                             Advanced, 6G & A1 — particularly related to: <br><br>
+                        </p>
+                    </div>
+                </div>
+                <div class="row g-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                         <ul>
                             <li>6G network</li>
                             <li>NR</li>
@@ -79,39 +84,57 @@
                             <li>Beam Forming</li>
                             <li>mmwave</li>
                             <li>Waveforms</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                        <ul>
                             <li>Numerology</li>
                             <li>eMBB</li>
                             <li>mMTC</li>
                             <li>uRLC</li>
                             <li>NTN</li>
                             <li>Positioning</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                        <ul>
                             <li>IRS</li>
                             <li>AI</li>
                             <li>ML</li>
                             <li>Deep Learning</li>
                             <li>Holographic Radio</li>
                             <li>Network Slicing / SDN / Network Virtualization</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+                        <ul>
                             <li>Cell Free massive MIMO,</li>
                             <li>Spectrum Sensing & Sharing</li>
                             <li>Mobile Edge & Fog Computing</li>
                             <li>Applications of 5G / 6G / AI etc.</li>
                         </ul>
-                        <br><br>
+                    </div>
+                </div>
+                <br><br>
+                <div class="row g-5">
+                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                        <p class="mb-4 text-justify">
                         Selected accepted papers will be published in <b>"IETE Journal of Research"</b>.<br><br>
                         <a class="btn btn-dark py-sm-3 px-sm-5 rounded-pill me-3" href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIICI2023" target="_blank">
                             Submit Your Paper
                         </a>
                         </p>
-
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Team End -->
+    </div>
+    </div>
+    <!-- Team End -->
 
 
 
-        <?php include 'include/footer.php'; ?>
+    <?php include 'include/footer.php'; ?>
 </body>
 
 </html>

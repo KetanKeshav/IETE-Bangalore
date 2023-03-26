@@ -105,38 +105,6 @@
         <!-- Event Start -->
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
-                <div class="row g-5">
-                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="position-relative mb-4 pb-2">
-                            <h2 class="mt-2 text-center">IETE International Conference India - 2023 (IICI-23)</h2>
-                            <h6 class="text-primary text-center">On AI & ML Driving 5G-Advanced & 6G</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="row g-5">
-                    <h2 class="mt-2">
-                        Organized by :
-                    </h2>
-                    <h2 class="text-primary text">The Institution of Electronics and Telecommunication Engineers (IETE)</h2>
-                    <h3 class="mt-2 text-center">(Recognized as SIRO by Govt of India)<br>
-                        JOINTLY WITH <br>
-                        BHARAT ELELCTRONICS LTD (BEL)<br>
-                        & CENTRE FOR DEVELOPMENT OF TELEMATICS (C-DOT)<br>
-                        at BEL ACADEMY OF EXCELLENCE (NALANDA) BENGALURU, INDIA
-                    </h3>
-                </div>
-                <div class="row g-5 mt-2">
-                    <!-- Insert three buttons to Download Brochure, Download Call for Papers and Download Call For SPonsors -->
-                    <div class="col-lg-4">
-                        <a href="./assets/downloads/CFP.pdf" download="IICI-23-CFP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Call For Papers</a>
-                    </div>
-                    <div class="col-lg-4">
-                        <a href="./assets/downloads/brochure.pdf" download="IICI-23-Brochure" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Brochure</a>
-                    </div>
-                    <div class="col-lg-4">
-                        <a href="./assets/downloads/CFS.pdf" download="IICI-23-CFSP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Call For Sponsors</a>
-                    </div>
-                </div>
                 <div class="container-xxl py-5">
                     <div class="container px-lg-5">
                         <div class="row g-5">
