@@ -202,9 +202,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Tutorial -->
+                            <!-- Tutorial and Exhibition -->
                             <div class="row g-5">
-                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                <!-- Tutorial -->
+                                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                                     <div class="position-relative mb-4 pb-2">
                                         <h2 class="mt-2 text-center">Tutorial</h2>
                                         <p class="mb-4 text-justify">
@@ -214,10 +215,8 @@
                                         </p>
                                     </div>
                                 </div>
-                            </div>
-                            <!-- Exhibition -->
-                            <div class="row g-5">
-                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                                <!-- Exhibition -->
+                                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                                     <div class="position-relative mb-4 pb-2">
                                         <h2 class="mt-2 text-center">Exhibition</h2>
                                         <p class="mb-4 text-justify">
@@ -228,6 +227,7 @@
                                     </div>
                                 </div>
                             </div>
+                            
                             <!-- Sponsorship & Souvenir -->
                             <div class="row g-5">
                                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
@@ -239,27 +239,6 @@
                                             and get greater visibility at the conference and also through advertisements
                                             in the special Souvenir to be released. Please contact the organizers for the
                                             details.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Call for Papers -->
-                            <div class="row g-5">
-                                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                                    <div class="position-relative mb-4 pb-2">
-                                        <h2 class="mt-2 text-center">Call for Papers</h2>
-                                        <p class="mb-4 text-justify">
-                                            All researchers working in the domain of Wireless Communications, AI & ML
-                                            are requested to submit their contributions in these broad areas for
-                                            presentation in IICI-2023. <br>
-                                            Some suggested topics (but not limited to only these): All aspects of 5G, 5G-
-                                            Advanced, 6G & AI particularly related to: 6G network, NR, Massive MIMO,
-                                            Beam Forming, mmwave, Waveforms, Numerology, eMBB, mMTC, uRLC,
-                                            Mobile Edge & Fog Computing, NTN, Spectrum Sensing & Sharing,
-                                            Positioning, Cell Free massive MIMO, Holographic Radio, IRS, A1, ML, Deep
-                                            Learning, Network Slicing / SDN / Network Virtualization, Applications of
-                                            5G/6G/AI etc. <br>
-                                            Selected accepted papers will be published in peer reviewed journal.
                                         </p>
                                     </div>
                                 </div>
