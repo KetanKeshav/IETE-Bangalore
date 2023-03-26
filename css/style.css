@@ -6,10 +6,6 @@
     --dark: #1D1D27;
 }
 
-body{
-    background-color: #ececec;
-}
-
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -226,6 +222,27 @@ h6,
         url(../img/bg-hero-3.webp);
     background-repeat: no-repeat;
     background-color: #03a9f4 !important;
+}
+
+.hero-header-4 {
+    position: relative;
+    background-image: url(../img/4.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-header-5 {
+    position: relative;
+    background-image: url(../img/5.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-header-6 {
+    position: relative;
+    background-image: url(../img/6.webp);
+    background-size: cover;
+    background-position: center;
 }
 
 @media (max-width: 768px) {
@@ -652,4 +669,201 @@ h6,
 
 .text-justify {
     text-align: justify;
+}
+
+/* slider section */
+.slider_section {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+}
+
+.slider_section #customCarousel1 {
+    width: 100%;
+    position: unset;
+}
+
+.slider_section .detail_box {
+    color: #000000;
+    margin-top: 60%;
+}
+
+.slider_section .detail_box h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.slider_section .detail_box a {
+    display: inline-block;
+    padding: 12px 45px;
+    background-color: #1c1f96;
+    color: #ffffff;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+
+.button-con {
+    display: inline-block;
+    text-align: center;
+    background-color: #1c1f96;
+    color: #ffffff;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+    .button-con {
+        padding: 5px;
+    }
+}
+
+
+.button-con:hover {
+    background-color: #393a99;
+}
+
+.og-com-h {
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+.content-bg {
+    background: #14141415;
+}
+
+.content_bg {
+    background: #14141415;
+}
+
+.slider_section .detail_box a:hover {
+    background-color: #393a99;
+}
+
+.slider_section .carousel-indicators {
+    bottom: 75px;
+}
+
+.slider_section .carousel-indicators li {
+    text-indent: unset;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: none;
+    opacity: 1;
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    color: #ffffff;
+    border-radius: 100%;
+    border: 1.5px solid transparent;
+}
+
+.slider_section .carousel-indicators li.active {
+    width: 25px;
+    height: 25px;
+    border-color: #ffffff;
+}
+
+/* Slider End */
+
+/*header section*/
+.slide-1 {
+    margin-top: 80px;
+    height: 100vh;
+    position: relative;
+    background-image: url(../img/4.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.slide-2 {
+    height: 100vh;
+    position: relative;
+    background-image: url(../img/5.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.slide-3 {
+    height: 100vh;
+    position: relative;
+    background-image: url(../img/6.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+@media (max-width: 992px) {
+    .hero_area {
+        height: auto;
+    }
+
+    .slider_section .detail_box {
+        margin-top: 850px;
+    }
+    
+
+    .slide-1 {
+        height: 100vh;
+    }
+
+    .slide-2 {
+        height: 100vh;
+    }
+
+    .slide-3 {
+        height: 100vh;
+    }
+
+    .slide-1 {
+        margin-top: 0;
+        background-image: url(../img/4-md.webp);
+    }
+
+    .slide-2 {
+        margin-top: 0;
+        background-image: url(../img/5-md.webp);
+    }
+
+    .slide-3 {
+        margin-top: 0;
+        background-image: url(../img/6-md.webp);
+    }
+}
+
+@media (max-width: 768px) {
+    .slider_section .detail_box {
+        margin-top: 90%;
+    }
+
+    .slide-1 {
+        position: relative;
+        margin-top: 0;
+        background-image: url(../img/4-ph.webp);
+    }
+
+    .slide-2 {
+        position: relative;
+        margin-top: 0;
+        background-image: url(../img/5-ph.webp);
+    }
+
+    .slide-3 {
+        position: relative;
+        margin-top: 0;
+        background-image: url(../img/6-ph.webp);
+    }
 }

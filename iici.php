@@ -8,7 +8,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
-
+    <link href="css/responsive.css" rel="stylesheet" />
     <?php include 'include/head.php'; ?>
 </head>
 
@@ -26,9 +26,60 @@
         <!-- Navbar & Hero Start -->
         <div class="container-xxl position-relative p-0">
             <?php include 'include/navbar.php'; ?>
-
-            <div class="container-xxl py-5">
-            </div>
+            <section class="slider_section ">
+                <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active slide-1">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8 mx-auto">
+                                        <div class="detail_box">
+                                            <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIICI2023" target="_blank">
+                                                Submit Your Paper
+                                            </a>
+                                            <a href="https://iete.org/IETE-Journal%20of%20Research%20Template.pdf" target="_blank">
+                                               Paper Template
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item slide-2">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8 mx-auto">
+                                        <div class="detail_box">
+                                            <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIICI2023" target="_blank">
+                                                Submit Your Paper
+                                            </a>
+                                            <a href="https://iete.org/IETE-Journal%20of%20Research%20Template.pdf" target="_blank">
+                                               Paper Template
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item slide-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8 mx-auto">
+                                        <div class="detail_box">
+                                            <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FIICI2023" target="_blank">
+                                                Submit Your Paper
+                                            </a>
+                                            <a href="https://iete.org/IETE-Journal%20of%20Research%20Template.pdf" target="_blank">
+                                               Paper Template
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
         <!-- Navbar & Hero End -->
 
@@ -51,30 +102,6 @@
         </div>
         <!-- Full Screen Search End -->
 
-        <!-- Portfolio Start -->
-        <div class="container-xxl py-5">
-            <div class="container px-lg-5">
-                <div class="row position-relative text-center mb-5 pb-2 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="img-fluid">
-                            <img src="./img/iici/2.png" alt="IICI 2023" class="img-fluid" width="50%">
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="img-fluid">
-                            <img src="./img/iici/1.png" alt="IICI 2023" class="img-fluid" width="50%">
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="img-fluid">
-                            <img src="./img/iici/3.png" alt="IICI 2023" class="img-fluid" width="50%">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Portfolio End -->
-
         <!-- Event Start -->
         <div class="container-xxl py-5">
             <div class="container px-lg-5">
@@ -87,17 +114,6 @@
                     </div>
                 </div>
                 <div class="row g-5">
-                    <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.1s">
-                        <div class="position-relative mb-4 pb-2">
-                            <h2 class="mt-2">May 03 - 05, 2023</h6>
-                                <h2 class="text-primary">Bengaluru, India</h6>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.1s">
-                        <div class="position-relative mb-4 pb-2">
-                            <h2 class="text-primary text">Making 6G & AI in India for The World</h6>
-                        </div>
-                    </div>
                     <h2 class="mt-2">
                         Organized by :
                     </h2>
@@ -111,21 +127,14 @@
                 </div>
                 <div class="row g-5 mt-2">
                     <!-- Insert three buttons to Download Brochure, Download Call for Papers and Download Call For SPonsors -->
-                    <div class="col-lg-3">
+                    <div class="col-lg-4">
                         <a href="./assets/downloads/CFP.pdf" download="IICI-23-CFP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Call For Papers</a>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-4">
                         <a href="./assets/downloads/brochure.pdf" download="IICI-23-Brochure" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Brochure</a>
                     </div>
-                    <div class="col-lg-3">
-                        <a href="https://cmt3.research.microsoft.com/IICI2023" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" target="_bl
-                        ">Submit your paper</a>
-                    </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-4">
                         <a href="./assets/downloads/CFS.pdf" download="IICI-23-CFSP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Call For Sponsors</a>
-                    </div>
-                    <div class="col-lg-3">
-                        <a href="https://iete.org/IETE-Journal%20of%20Research%20Template.pdf" download="IICI-23-CFSP" class="btn btn-outline-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Conference Paper Template</a>
                     </div>
                 </div>
                 <div class="container-xxl py-5">
