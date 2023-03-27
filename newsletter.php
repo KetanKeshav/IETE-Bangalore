@@ -61,7 +61,7 @@
                 <div class="row g-5">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="table-responsive">
-                            <table class="table">
+                            <table class="table table-hover my-table">
                                 <thead>
                                     <tr>
                                         <th>Volume</th>

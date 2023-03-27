@@ -74,7 +74,7 @@
                             <h2 class="mt-2 text-center">Sponsorship</h2>
                             <div class="row g-5">
                                 <div class="table-responsive">
-                                    <table class="table">
+                                    <table class="table my-table">
                                         <thead>
                                             <tr>
                                                 <th>Type</th>
@@ -168,7 +168,7 @@
                             <h2 class="mt-2 text-center">ADVERTISEMENT IN SOUVENIR</h2>
                             <div class="row g-5">
                                 <div class="table-responsive">
-                                    <table class="table">
+                                    <table class="table my-table">
                                         <thead>
                                             <tr>
                                                 <th>Type</th>

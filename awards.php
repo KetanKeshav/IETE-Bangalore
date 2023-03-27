@@ -64,7 +64,7 @@
                             <h2 class="mt-2">Presidents from Bangalore</h2>
                         </div>
                         <div class="table-responsive">
-                            <table class="table table-hover">
+                            <table class="table table-hover my-table">
                                 <thead>
                                     <tr>
                                         <th scope="col">Sl. no.</th>
@@ -126,7 +126,7 @@
                             <h2 class="mt-2">Honorary Fellows (HF) From Bangalore</h2>
                         </div>
                         <div class="table-responsive">
-                            <table class="table table-hover">
+                            <table class="table table-hover my-table">
                                 <thead>
                                     <tr>
                                         <th scope="col">Sl. no.</th>
@@ -213,7 +213,7 @@
                             <h2 class="mt-2">Distinguished Fellows (DF) From Bangalore</h2>
                         </div>
                         <div class="table-responsive">
-                            <table class="table table-hover">
+                            <table class="table table-hover my-table">
                                 <thead>
                                     <tr>
                                         <th scope="col">Sl. no.</th>
@@ -387,7 +387,7 @@
                             <h2 class="mt-2">Chairman’s of IETE Bangalore</h2>
                         </div>
                         <div class="table-responsive">
-                            <table class="table table-hover">
+                            <table class="table table-hover my-table">
                                 <thead>
                                     <tr>
                                         <th scope="col">Sl. no.</th>
