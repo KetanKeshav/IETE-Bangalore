@@ -14,7 +14,12 @@ body{
     font-family: "Poppins", sans-serif;
 }
 
-h1,h2,h3,h4,h5,h6,p{
+h1,h2,h3,h4,h5,h6,p,ul,ol{
+    color: #0c0c0c;
+}
+
+.my-table{
+    border-color: #000;
     color: #0c0c0c;
 }
 
