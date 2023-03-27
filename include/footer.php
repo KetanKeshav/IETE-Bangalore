@@ -1,5 +1,5 @@
 <!-- Footer Start -->
-<div class="container-fluid bg-primary text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
+<div class="container-fluid text-light footer mt-5 pt-5 wow fadeIn" style="background-color: #2124b1" data-wow-delay="0.1s">
     <div class="container py-5 px-lg-5">
         <div class="row g-5">
             <div class="col-md-6 col-lg-3">
@@ -54,7 +54,7 @@
 
 
 <!-- Back to Top -->
-<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top pt-2"><i class="bi bi-arrow-up"></i></a>
+<a href="#" class="btn btn-lg btn-lg-square back-to-top pt-2" style="background-color: #03a9f4;"><i class="bi bi-arrow-up" style="color: white;"></i></a>
 </div>
 
 <!-- JavaScript Libraries -->
