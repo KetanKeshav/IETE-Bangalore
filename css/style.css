@@ -6,6 +6,19 @@
     --dark: #1D1D27;
 }
 
+body{
+    background-color: #14141415;
+}
+
+*{
+    font-family: "Poppins", sans-serif;
+    color: #0c0c0c;
+}
+
+.container-xxl{
+    background-color: #14141415;
+}
+
 /*** Spinner ***/
 #spinner {
     opacity: 0;
