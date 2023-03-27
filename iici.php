@@ -10,6 +10,13 @@
     <meta content="" name="description">
     <link href="css/responsive.css" rel="stylesheet" />
     <?php include 'include/head.php'; ?>
+    <style>
+        .gallery-item img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+    </style>
 </head>
 
 <body>
@@ -38,7 +45,7 @@
                                                 Submit Your Paper
                                             </a>
                                             <a href="https://iete.org/IETE-Journal%20of%20Research%20Template.pdf" target="_blank">
-                                               Paper Template
+                                                Paper Template
                                             </a>
                                         </div>
                                     </div>
@@ -54,7 +61,7 @@
                                                 Submit Your Paper
                                             </a>
                                             <a href="https://iete.org/IETE-Journal%20of%20Research%20Template.pdf" target="_blank">
-                                               Paper Template
+                                                Paper Template
                                             </a>
                                         </div>
                                     </div>
@@ -70,7 +77,7 @@
                                                 Submit Your Paper
                                             </a>
                                             <a href="https://iete.org/IETE-Journal%20of%20Research%20Template.pdf" target="_blank">
-                                               Paper Template
+                                                Paper Template
                                             </a>
                                         </div>
                                     </div>
@@ -195,10 +202,66 @@
                                     </div>
                                 </div>
                             </div>
-                            
-                           
-                            
-                            
+                            <!-- Places to Visit -->
+                            <div class="row g-5">
+                                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                                    <div class="section-title position-relative mb-4 pb-2">
+                                        <h2 class="mt-2">Places To Visit</h2>
+                                    </div>
+                                    <p class="mb-4 text-justify">
+                                        Bangalore, also known as Bengaluru, is a bustling metropolis in the southern part of India.
+                                        There are numerous places to visit in Bangalore that cater to different interests. For those
+                                        interested in history, the Bangalore Palace and the Tipu Sultan's Summer Palace are a must-visit.
+                                        The Lalbagh Botanical Gardens and the Cubbon Park are perfect for nature enthusiasts, while the Wonderla
+                                        Amusement Park and the Innovative Film City are ideal for families and thrill-seekers. The city also boasts
+                                        several museums, including the National Gallery of Modern Art and the Visvesvaraya Industrial and Technological Museum.
+                                        Additionally, Bangalore is famous for its cuisine, and foodies can explore the city's many restaurants and
+                                        street food stalls to indulge in some delicious local dishes.
+                                    </p>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img src="img/ptv/18.webp" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/ptv/19.webp" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/ptv/20.webp" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item ">
+                                                <img src="img/ptv/21.webp" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/ptv/22.webp" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/ptv/23.webp" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item ">
+                                                <img src="img/ptv/24.webp" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/ptv/25.webp" class="d-block w-100" alt="...">
+                                            </div>
+                                        </div>
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Previous</span>
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Next</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
 
                         </div>
                     </div>
