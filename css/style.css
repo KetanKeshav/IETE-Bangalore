@@ -7,16 +7,19 @@
 }
 
 body{
-    background-color: #14141415;
+    background-color: #C1C4CB;
 }
 
 *{
     font-family: "Poppins", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,p{
     color: #0c0c0c;
 }
 
 .container-xxl{
-    background-color: #14141415;
+    background-color: #C1C4CB;
 }
 
 /*** Spinner ***/
