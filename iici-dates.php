@@ -75,19 +75,19 @@
                                             <tbody>
                                                 <tr>
                                                     <td>Last Date for Receipt of Papers :</td>
-                                                    <td>31 Mar 2023</td>
+                                                    <td>10 April 2023</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Notification of Paper Acceptance:</td>
-                                                    <td>15 April 2023</td>
+                                                    <td>20 April 2023</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Receipt of Acxepted Full Papers :</td>
+                                                    <td>Receipt of Accepted Full Papers :</td>
                                                     <td>25 April 2023</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Last date for Registration:</td>
-                                                    <td>25 April 2023</td>
+                                                    <td>27 April 2023</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Conference :</td>
