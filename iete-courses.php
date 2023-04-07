@@ -79,7 +79,7 @@
                                     <tr>
                                         <th scope="row">2</th>
                                         <td>Advanced FPGA Design with Lab Session</td>
-                                        <td><a href="./assets/downloads/Advanced FPGA Design with Lab Session.pdf" class="btn btn-primary" download="Cyber Security IETE Course">Course Details</a></td>
+                                        <td><a href="./assets/downloads/Advanced FPGA Design with Lab Session.pdf" class="btn btn-primary" download="Advanced FPGA Design with Lab Session">Course Details</a></td>
                                     </tr>
                                     <tr>
                                         <th scope="row">3</th>
