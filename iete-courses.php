@@ -79,7 +79,7 @@
                                     <tr>
                                         <th scope="row">2</th>
                                         <td>Advanced FPGA Design with Lab Session</td>
-                                        <td>Course Details</td>
+                                        <td><a href="./assets/downloads/Advanced FPGA Design with Lab Session.pdf" class="btn btn-primary" download="Cyber Security IETE Course">Course Details</a></td>
                                     </tr>
                                     <tr>
                                         <th scope="row">3</th>
@@ -99,7 +99,7 @@
                                     <tr>
                                         <th scope="row">6</th>
                                         <td>Embedded Sytems Design (ESD02)</td>
-                                        <td>Course Details</td>
+                                        <td><a href="./assets/downloads/Embedded Sytems Design.pdf" class="btn btn-primary" download>Course Details</a></td>
                                     </tr>
                                     <tr>
                                         <th scope="row">7</th>
@@ -124,7 +124,7 @@
                                     <tr>
                                         <th scope="row">11</th>
                                         <td>MATLAB/SIMULINK</td>
-                                        <td>Course Details</td>
+                                        <td><a href="./assets/downloads/MATLAB or SIMULINK.pdf" class="btn btn-primary" download>Course Details</a></td>
                                     </tr>
                                     <tr>
                                         <th scope="row">12</th>
@@ -135,6 +135,21 @@
                                         <th scope="row">13</th>
                                         <td>Advanced IOT</td>
                                         <td>Course Details</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">14</th>
+                                        <td>Image Processing using MATLAB</td>
+                                        <td><a href="./assets/downloads/Image Processing using MATLAB.jpeg" class="btn btn-primary" download>Course Details</a></td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">15</th>
+                                        <td>Python Programming</td>
+                                        <td><a href="./assets/downloads/Python Programming.pdf" class="btn btn-primary" download>Course Details</a></td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">16</th>
+                                        <td>AI and ML with Python</td>
+                                        <td><a href="./assets/downloads/AI and ML with Python IETE.pdf" class="btn btn-primary" download="AI and ML with Python">Course Details</a></td>
                                     </tr>
                                 </tbody>
                             </table>
