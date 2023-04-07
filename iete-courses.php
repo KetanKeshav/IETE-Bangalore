@@ -99,7 +99,7 @@
                                     <tr>
                                         <th scope="row">6</th>
                                         <td>Embedded Sytems Design (ESD02)</td>
-                                        <td><a href="./assets/downloads/Embedded Sytems Design.pdf" class="btn btn-primary" download>Course Details</a></td>
+                                        <td><a href="./assets/downloads/Embedded Systems Design.pdf" class="btn btn-primary" download>Course Details</a></td>
                                     </tr>
                                     <tr>
                                         <th scope="row">7</th>
@@ -124,7 +124,7 @@
                                     <tr>
                                         <th scope="row">11</th>
                                         <td>MATLAB/SIMULINK</td>
-                                        <td><a href="./assets/downloads/MATLAB or SIMULINK.pdf" class="btn btn-primary" download>Course Details</a></td>
+                                        <td><a href="./assets/downloads/MATLAB or SIMULINK.pdf" class="btn btn-primary" download="MATLAB/SIMULINK">Course Details</a></td>
                                     </tr>
                                     <tr>
                                         <th scope="row">12</th>
