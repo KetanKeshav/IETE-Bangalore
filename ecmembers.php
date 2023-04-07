@@ -243,7 +243,6 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                                
                                 <img class="img-fluid rounded w-100" src="img/team/16.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
@@ -268,7 +267,6 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                                
                                 <img class="img-fluid rounded w-100" src="img/team/18.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
@@ -291,7 +289,6 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                                
                                 <img class="img-fluid rounded w-100" src="img/team/20.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
