@@ -59,7 +59,7 @@
                     <h2 class="mt-2">Meet Our Team Members</h2>
                 </div>
                 <div class="row g-4">
-                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item">
                             <div class="d-flex">
                                 <img class="img-fluid rounded w-100" src="img/team/1.webp" alt="">
