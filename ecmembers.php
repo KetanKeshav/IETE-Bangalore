@@ -65,7 +65,7 @@
                                 <img class="img-fluid rounded w-100" src="img/team/1.webp" alt="">
                             </div>
                             <div class="px-4 py-4">
-                                <h5 class="fw-bold m-0">SRI. C P DWIVEDI</h5>
+                                <h5 class="fw-bold m-0">Dr. C P DWIVEDI</h5>
                                 <small>CHAIRMAN</small>
                             </div>
                         </div>
