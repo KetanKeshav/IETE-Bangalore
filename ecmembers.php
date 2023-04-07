@@ -197,7 +197,7 @@
                         <div class="team-item">
                             <div class="d-flex">
                                 
-                                <img class="img-fluid rounded w-100" src="img/team/12.webp" alt="">
+                                <img class="img-fluid rounded w-100" src="img/team/40.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Dr. S Mohan Kumar</h5>
@@ -210,7 +210,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/39.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Dr. B Roja Reddy</h5>
@@ -221,7 +221,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/36.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Dr. V Ilango</h5>
@@ -232,7 +232,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/34.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Shri S Basha Wajeed</h5>
@@ -256,7 +256,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/35.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Dr. Ranjani G</h5>
@@ -278,7 +278,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/32.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Dr. C G Raghvendra</h5>
@@ -326,7 +326,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/37.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Sri. Ramana Reddy V V</h5>
@@ -374,7 +374,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/33.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Dr. Y V S Lakshmi</h5>
@@ -385,7 +385,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/38.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Sri.  Anil Kumar</h5>
