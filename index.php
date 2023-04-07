@@ -23,7 +23,7 @@
         <!-- Spinner End -->
         <!-- Navbar & Hero Start -->
         <marquee class="text-decoration-none" style="font-size: 18px; padding:10px; background-color:#000; color:#fff;" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-            Last Date for Receipt of Papers for IICI 2023 has now been extended to 31st March 2023
+            Last Date for Receipt of Papers for IICI 2023 has now been extended to 10th April 2023
         </marquee>
         <div class="container-xxl position-relative p-0" style="margin-top: -10px;">
             <?php include 'include/navbar.php'; ?>
