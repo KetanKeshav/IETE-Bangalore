@@ -85,7 +85,7 @@
                                         <tbody>
                                             <tr>
                                                 <td>Diamond Sponsor</td>
-                                                <td>RS 10 Lakhs</td>
+                                                <td>Rs 10 Lakhs</td>
                                                 <td>
                                                     <ul>
                                                         <li>3 Stalls in primary area </li>
@@ -121,7 +121,7 @@
                                             </tr>
                                             <tr>
                                                 <td>Silver Sponsor</td>
-                                                <td>RS 2 Lakhs</td>
+                                                <td>Rs 2 Lakhs</td>
                                                 <td>
                                                     <ul>
                                                         <li>1 Stall in primary area</li>
