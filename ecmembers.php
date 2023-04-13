@@ -337,7 +337,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="d-flex">
-                            <img class="img-fluid rounded w-100" src="img/team/m.png" alt="">
+                            <img class="img-fluid rounded w-100" src="img/team/42.webp" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Dr. S D Sudarsan</h5>
