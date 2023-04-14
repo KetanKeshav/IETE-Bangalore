@@ -24,17 +24,18 @@
                 </div>
             </div>
             <?php $iici = array("iici","iici-cfp","iici-cfs","iici-registration","iici-dates"); ?>
-            <div class="nav-item dropdown">
-                <a href="iici.php" class="nav-link <?php if(in_array($page,$iici)) echo 'active' ?> dropdown-toggle" data-bs-toggle="dropdown">IICI 2023</a>
-                <div class="dropdown-menu m-0">
-                    <a href="iici.php" class="dropdown-item <?php if($page == 'iici') echo 'active' ?>">IICI 2023</a>
+            <!-- <div class="nav-item dropdown"> -->
+                <!-- <a href="iici.php" class="nav-link <?php if(in_array($page,$iici)) echo 'active' ?> dropdown-toggle" data-bs-toggle="dropdown">IICI 2023</a> -->
+                <a href="https://iici.ietebangalore.org/" class="nav-item nav-link">IICI 2023</a>
+                <!-- <div class="dropdown-menu m-0"> -->
+                    <!-- <a href="iici.php" class="dropdown-item <?php if($page == 'iici') echo 'active' ?>">IICI 2023</a>
                     <a href="iici-cfp.php" class="dropdown-item <?php if($page == 'iici-cfp') echo 'active' ?>">Call For Papers</a>
                     <a href="iici-cfs.php" class="dropdown-item  <?php if($page == 'iici-cfs') echo 'active' ?>">Call For Sponsors</a>
                     <a href="iici-registration.php" class="dropdown-item <?php if($page == 'iici-registration') echo 'active' ?>">Registration</a>
-                    <a href="iici-dates.php" class="dropdown-item <?php if($page == 'iici-dates') echo 'active' ?>">Important Dates</a>
-                    <a href="https://iici.ietebangalore.org/" target="_blank" class="dropdown-item">Full Website</a>
-                </div>
-            </div>
+                    <a href="iici-dates.php" class="dropdown-item <?php if($page == 'iici-dates') echo 'active' ?>">Important Dates</a> -->
+                    <!-- <a href="https://iici.ietebangalore.org/" target="_blank" class="dropdown-item">Full Website</a> -->
+                <!-- </div> -->
+            <!-- </div> -->
             <!-- <a href="iici.php" class="nav-item nav-link <?php if($page == 'iici') echo 'active' ?>">IICI 2023</a> -->
             <a href="events.php" class="nav-item nav-link <?php if($page == 'events') echo 'active' ?>">Events</a>
             <!-- <a href="#" class="nav-item nav-link">IICI-23</a> -->
