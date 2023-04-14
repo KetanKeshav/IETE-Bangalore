@@ -26,7 +26,7 @@
             <?php $iici = array("iici","iici-cfp","iici-cfs","iici-registration","iici-dates"); ?>
             <!-- <div class="nav-item dropdown"> -->
                 <!-- <a href="iici.php" class="nav-link <?php if(in_array($page,$iici)) echo 'active' ?> dropdown-toggle" data-bs-toggle="dropdown">IICI 2023</a> -->
-                <a href="https://iici.ietebangalore.org/" class="nav-item nav-link">IICI 2023</a>
+                <a href="https://iici.ietebangalore.org/" target="_blank" class="nav-item nav-link">IICI 2023</a>
                 <!-- <div class="dropdown-menu m-0"> -->
                     <!-- <a href="iici.php" class="dropdown-item <?php if($page == 'iici') echo 'active' ?>">IICI 2023</a>
                     <a href="iici-cfp.php" class="dropdown-item <?php if($page == 'iici-cfp') echo 'active' ?>">Call For Papers</a>
