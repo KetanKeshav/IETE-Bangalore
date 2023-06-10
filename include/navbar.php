@@ -50,6 +50,15 @@
             </div> -->
             <a href="payment.php" class="nav-item nav-link <?php if($page == 'payment') echo 'active' ?>">Payment</a>
             <a href="gallery.php" class="nav-item nav-link <?php if($page == 'gallery') echo 'active' ?>">Gallery</a>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-item nav-link <?php if($page == 'agm') echo 'active' ?> dropdown-toggle" data-bs-toggle="dropdown">AGM 2023</a>
+                <div class="dropdown-menu m-0">
+                    <a href="agm.php" class="dropdown-item <?php if($page == 'agm') echo 'active' ?>">AGM 2023</a>
+                    <a href="assets/downloads/Annual Report.pdf" download="Annual Report"  class="dropdown-item">Annual Report</a>
+                    <a href="assets/downloads/Balance Statement.pdf" download="Balance Statement"  class="dropdown-item">Balance Statement</a>
+                    <a href="assets/downloads/AGM 2022 - MoM.pdf" download="AGM 2022 - MoM"  class="dropdown-item">AGM 2022 - MoM</a>
+                </div>
+            </div>
             <a href="contact.php" class="nav-item nav-link <?php if($page == 'contact') echo 'active' ?>">Contact</a>
         </div>
     </div>
