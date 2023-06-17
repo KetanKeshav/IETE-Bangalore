@@ -51,7 +51,7 @@
             <a href="payment.php" class="nav-item nav-link <?php if($page == 'payment') echo 'active' ?>">Payment</a>
             <a href="gallery.php" class="nav-item nav-link <?php if($page == 'gallery') echo 'active' ?>">Gallery</a>
             <div class="nav-item dropdown">
-                <a href="#" class="nav-item nav-link <?php if($page == 'agm') echo 'active' ?> dropdown-toggle" data-bs-toggle="dropdown">AGM 2023 Notice</a>
+                <a href="#" class="nav-item nav-link <?php if($page == 'agm') echo 'active' ?> dropdown-toggle" data-bs-toggle="dropdown">AGM 2023</a>
                 <div class="dropdown-menu m-0">
                     <a href="agm.php" class="dropdown-item <?php if($page == 'agm') echo 'active' ?>">AGM-2023 Notice</a>
                     <a href="assets/downloads/Annual Report 2023.pdf" download="Annual Report"  class="dropdown-item">Annual Report</a>
